@@ -23,6 +23,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec", '~> 2.13'
   spec.add_development_dependency "activemodel", '~> 3.2'
   spec.add_development_dependency "capybara", '~> 2.1'
-  spec.add_dependency 'liquid', '~> 2.2'
+  spec.add_dependency 'liquid', '~> 4.0.0.rc2'
   spec.add_dependency 'activesupport', '>= 3.0.0'
 end
